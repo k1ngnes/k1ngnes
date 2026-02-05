@@ -11,7 +11,7 @@ My main tech stack is React, Typescript and Tailwind. I really like frontend dev
     <td>
       <a href="https://github.com/k1ngnes/gazprom-test">gazprom-test</a>
       <p>The main goal was to make a server which reads a long CSV file and then sends it to the client. On the client side this CSV file renders as a table with pagination. It was made with React and NodeJS, put together in Docker Compose</p>
-      <img src="logo.png" style="width: 400px;"/>
+      <img src="gazprom-test.png" style="width: 800px;"/>
     </td>
     <td>
       <a href="https://github.com/k1ngnes/gazprom-test">artsofte-test</a>
