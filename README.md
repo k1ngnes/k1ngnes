@@ -15,7 +15,7 @@ My main tech stack is React, Typescript and Tailwind. I really like frontend dev
     </td>
     <td>
       <a href="https://github.com/k1ngnes/gazprom-test">artsofte-test</a>
-      <p>In this project I did a list of companies with Google's material paginator. List of companies is coming from an fake API dummy. You can also sort these companies and filter them, there is an individual company information page too! Everything is done with Angular and Typesript, SCSS for styling.</p>
+      <p>In this project I did a list of companies with Google's material paginator. List of companies is coming from a fake API dummy. You can also sort these companies and filter them, there is an individual company information page too! Everything is done with Angular and Typesript, SCSS for styling.</p>
       <img src="logo.png" style="width: 400px;"/>
     </td>
   </tr>
